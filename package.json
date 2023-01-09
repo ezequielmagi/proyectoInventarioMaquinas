@@ -1,0 +1,16 @@
+{
+  "name": "proyectoinventariomaquinas",
+  "version": "1.0.0",
+  "description": "Proyecto para el ingreso de equipos y control de inventario",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Ezequiel Magi <ezequielmaggi@gmail.com>",
+  "license": "MIT"
+}
